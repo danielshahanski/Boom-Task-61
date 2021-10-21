@@ -5,6 +5,6 @@ window.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll('.hot').forEach(elem => {
         elem.classList.add("fas");
         elem.classList.add("fa-fire");
-        elem.innerText+= '';
+        elem.innerText+= '🔥';
     })
 });
